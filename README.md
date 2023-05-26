@@ -1,4 +1,4 @@
-Greetings ![](https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif) I am Shivam :)
+Greetings 👋 I am Shivam :)
 =====================================================================================================================================
 
 A Professional Web Developer
