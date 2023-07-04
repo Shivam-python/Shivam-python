@@ -9,11 +9,13 @@ Here are some tools and technologies that I'm proficient in:
 
 - Python for scripting & data analysis.
 - Django (Django Rest Framework) for web development.
-- SQL for data manipulation and querying
+- SQL for data manipulation and querying.
+- MongoDB & Redis Nosql Databases.
 - Cloud computing platforms such as Google Cloud Platform and Amazon Web Services
 - Docker for containarization & deployments
 - Git (Bitbucket pipelines, github actions & gitlab) for VCS & CI/CD.
 - Monitoring tools such as Sentry & Grafana
+- Airflow for setting up ETL pipelines/Reporting. 
 
 In addition to my technical skills, I've experience managing teams, communicating and collaborating with cross-functional teams to deliver impactful solutions.
 
@@ -21,6 +23,9 @@ In addition to my technical skills, I've experience managing teams, communicatin
 - Python
 - Django
 - Django Rest Framework
+- SQL
+- Airflow
+- MongoDB
 - Flask
 - Git
 - AWS (S3, RDS, EC2, ECS, Lambda, SNS, SQS, SES)
