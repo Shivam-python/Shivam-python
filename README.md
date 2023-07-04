@@ -12,7 +12,7 @@ Here are some tools and technologies that I'm proficient in:
 - SQL for data manipulation and querying
 - Cloud computing platforms such as Google Cloud Platform and Amazon Web Services
 - Docker for containarization & deployments
-- Git (Bitbucket pipelines, github actions & gitlab) fro VCS & CI/CD.
+- Git (Bitbucket pipelines, github actions & gitlab) for VCS & CI/CD.
 - Monitoring tools such as Sentry & Grafana
 
 In addition to my technical skills, I've experience managing teams, communicating and collaborating with cross-functional teams to deliver impactful solutions.
